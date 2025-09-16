@@ -1,0 +1,250 @@
+[
+  {
+    "id": 7453,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 9,
+    "publicReview": "Amazing stay! The apartment was clean, modern, and exactly as described. Great location in Shoreditch with easy access to transport. Host was very responsive.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 9
+      },
+      {
+        "category": "location",
+        "rating": 10
+      },
+      {
+        "category": "value",
+        "rating": 8
+      }
+    ],
+    "submittedAt": "2024-01-15 14:30:22",
+    "guestName": "Sarah Johnson",
+    "listingName": "2B N1 A - 29 Shoreditch Heights",
+    "listingId": 101,
+    "channel": "Airbnb",
+    "approved": true
+  },
+  {
+    "id": 7454,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 8,
+    "publicReview": "Great apartment with excellent amenities. The check-in process was smooth and the space was perfect for our weekend getaway.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 9
+      },
+      {
+        "category": "communication",
+        "rating": 8
+      },
+      {
+        "category": "location",
+        "rating": 9
+      },
+      {
+        "category": "value",
+        "rating": 7
+      }
+    ],
+    "submittedAt": "2024-01-10 09:15:33",
+    "guestName": "Michael Chen",
+    "listingName": "1B Central London Studio",
+    "listingId": 102,
+    "channel": "Booking.com",
+    "approved": false
+  },
+  {
+    "id": 7455,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 10,
+    "publicReview": "Absolutely perfect! This place exceeded all expectations. Beautiful design, spotless condition, and the host went above and beyond to ensure our comfort.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 10
+      },
+      {
+        "category": "location",
+        "rating": 10
+      },
+      {
+        "category": "value",
+        "rating": 10
+      }
+    ],
+    "submittedAt": "2024-01-08 16:45:11",
+    "guestName": "Emma Thompson",
+    "listingName": "Luxury 2B Canary Wharf",
+    "listingId": 103,
+    "channel": "Airbnb",
+    "approved": true
+  },
+  {
+    "id": 7456,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 6,
+    "publicReview": "The location was good but the apartment had some maintenance issues. The WiFi was unreliable and there were some cleanliness concerns.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 7
+      },
+      {
+        "category": "location",
+        "rating": 8
+      },
+      {
+        "category": "value",
+        "rating": 6
+      }
+    ],
+    "submittedAt": "2024-01-05 11:20:44",
+    "guestName": "David Rodriguez",
+    "listingName": "2B N1 A - 29 Shoreditch Heights",
+    "listingId": 101,
+    "channel": "Vrbo",
+    "approved": false
+  },
+  {
+    "id": 7457,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 9,
+    "publicReview": "Fantastic experience! Modern apartment with all the amenities needed. Great communication from the host and seamless check-in/out process.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 9
+      },
+      {
+        "category": "location",
+        "rating": 8
+      },
+      {
+        "category": "value",
+        "rating": 9
+      }
+    ],
+    "submittedAt": "2024-01-03 19:30:15",
+    "guestName": "Lisa Park",
+    "listingName": "1B Central London Studio",
+    "listingId": 102,
+    "channel": "Airbnb",
+    "approved": true
+  },
+  {
+    "id": 7458,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 7,
+    "publicReview": "Good stay overall. The apartment was comfortable and well-equipped. Minor issues with heating but nothing major.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 8
+      },
+      {
+        "category": "communication",
+        "rating": 8
+      },
+      {
+        "category": "location",
+        "rating": 7
+      },
+      {
+        "category": "value",
+        "rating": 7
+      }
+    ],
+    "submittedAt": "2023-12-28 13:45:20",
+    "guestName": "Robert Wilson",
+    "listingName": "Luxury 2B Canary Wharf",
+    "listingId": 103,
+    "channel": "Booking.com",
+    "approved": false
+  },
+  {
+    "id": 7459,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 8,
+    "publicReview": "Really enjoyed our stay. The apartment was stylish and comfortable. Great location for exploring London. Would definitely stay again!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 9
+      },
+      {
+        "category": "communication",
+        "rating": 8
+      },
+      {
+        "category": "location",
+        "rating": 9
+      },
+      {
+        "category": "value",
+        "rating": 8
+      }
+    ],
+    "submittedAt": "2023-12-25 10:15:30",
+    "guestName": "Amanda Foster",
+    "listingName": "Modern 1B King's Cross",
+    "listingId": 104,
+    "channel": "Airbnb",
+    "approved": true
+  },
+  {
+    "id": 7460,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 9,
+    "publicReview": "Excellent apartment with stunning views. Everything was as described and the host was incredibly helpful with local recommendations.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 10
+      },
+      {
+        "category": "communication",
+        "rating": 9
+      },
+      {
+        "category": "location",
+        "rating": 10
+      },
+      {
+        "category": "value",
+        "rating": 8
+      }
+    ],
+    "submittedAt": "2023-12-20 17:20:45",
+    "guestName": "James Miller",
+    "listingName": "Penthouse Thames View",
+    "listingId": 105,
+    "channel": "Airbnb",
+    "approved": true
+  }
+]
