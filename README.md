@@ -88,8 +88,17 @@ Update review approval status:
 Google Reviews integration exploration:
 
 **Query Parameters:**
-- `demo=true` - View demo data and integration findings
 - `placeId` - Google Place ID for specific location
+
+**Example Place IDs:**
+- `ChIJN1t_tDeuEmsRUsoyG83frY4` - Google Sydney Office
+- `ChIJd8BlQ2BZwokRAFUEcm_qrcA` - Times Square, New York
+- `ChIJAVkDPzdZwokRcYl8V8V8V8V` - London Eye, London
+
+**Example Usage:**
+```bash
+GET /api/google-reviews?placeId=ChIJN1t_tDeuEmsRUsoyG83frY4
+```
 
 ## 🎯 Key Design Decisions
 
@@ -136,7 +145,7 @@ Google Reviews integration exploration:
 - Map internal property IDs to Google Place IDs
 - Monitor usage and implement fallbacks
 
-**Demo Available:** `/api/google-reviews?demo=true`
+**Integration Available:** `/api/google-reviews?placeId=ChIJN1t_tDeuEmsRUsoyG83frY4`
 
 ## 🗂️ Project Structure
 
