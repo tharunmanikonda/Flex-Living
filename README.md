@@ -178,20 +178,25 @@ flex-reviews-dashboard/
 2. Test various filter combinations
 3. Check `/api/google-reviews?demo=true` for Google integration
 
-## 🚀 Deployment
 
-**Recommended: Vercel (Free Tier)**
+ ### Google Reviews Integration Exploration
 
-1. Push code to GitHub repository
-2. Connect repository to Vercel
-3. Deploy with zero configuration
-4. Add environment variables if needed:
-   - `GOOGLE_PLACES_API_KEY` (optional for Google Reviews)
+ - This endpoint explores the feasibility of integrating Google Reviews
+ - using the Google Places API. The implementation demonstrates:
+  
+  1. How to fetch reviews from Google Places API
+  2. Data normalization from Google's format to our schema
+  3. Limitations and considerations
+  
+  FINDINGS:
+  - Google Places API provides up to 5 most helpful reviews
+  - Reviews include rating, text, author, and timestamp
+  - Rate limiting: 1000 requests per day (free tier)
+  - Requires place_id for each property
+  - Cannot control which reviews are returned (Google's algorithm)
+  - No ability to approve/reject specific reviews
+  - Limited to recent and most helpful reviews only
 
-**Alternative deployment options:**
-- Netlify
-- Railway
-- DigitalOcean App Platform
 
 ## 🔮 Future Enhancements
 
